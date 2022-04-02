@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Coding_Exercises_W1_P1_Longest_Sequence/1.0.0": {
+        "runtime": {
+          "Coding_Exercises_W1_P1_Longest_Sequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coding_Exercises_W1_P1_Longest_Sequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

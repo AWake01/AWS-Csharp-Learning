@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P5_String_Reversal/1.0.0": {
+        "runtime": {
+          "P5_String_Reversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P5_String_Reversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
