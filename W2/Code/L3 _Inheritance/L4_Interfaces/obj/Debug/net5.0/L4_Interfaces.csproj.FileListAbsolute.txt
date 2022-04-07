@@ -1,0 +1,15 @@
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\obj\Debug\net5.0\L4_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\obj\Debug\net5.0\L4_Interfaces.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\obj\Debug\net5.0\L4_Interfaces.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\obj\Debug\net5.0\L4_Interfaces.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\bin\Debug\net5.0\L4_Interfaces.exe
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\bin\Debug\net5.0\L4_Interfaces.deps.json
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\bin\Debug\net5.0\L4_Interfaces.runtimeconfig.json
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\bin\Debug\net5.0\L4_Interfaces.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\bin\Debug\net5.0\L4_Interfaces.dll
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\bin\Debug\net5.0\ref\L4_Interfaces.dll
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\bin\Debug\net5.0\L4_Interfaces.pdb
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\obj\Debug\net5.0\L4_Interfaces.dll
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\obj\Debug\net5.0\ref\L4_Interfaces.dll
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\obj\Debug\net5.0\L4_Interfaces.pdb
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L4_Interfaces\obj\Debug\net5.0\L4_Interfaces.genruntimeconfig.cache

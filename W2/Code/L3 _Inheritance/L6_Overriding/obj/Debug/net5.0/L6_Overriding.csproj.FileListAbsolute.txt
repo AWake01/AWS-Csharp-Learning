@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\L6_Overriding.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\L6_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\L6_Overriding.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\L6_Overriding.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\L6_Overriding.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\bin\Debug\net5.0\L6_Overriding.exe
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\bin\Debug\net5.0\L6_Overriding.deps.json
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\bin\Debug\net5.0\L6_Overriding.runtimeconfig.json
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\bin\Debug\net5.0\L6_Overriding.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\bin\Debug\net5.0\L6_Overriding.dll
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\bin\Debug\net5.0\ref\L6_Overriding.dll
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\bin\Debug\net5.0\L6_Overriding.pdb
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\L6_Overriding.dll
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\ref\L6_Overriding.dll
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\L6_Overriding.pdb
+R:\AWS-Csharp-Learning\W2\Code\L3 _Inheritance\L6_Overriding\obj\Debug\net5.0\L6_Overriding.genruntimeconfig.cache

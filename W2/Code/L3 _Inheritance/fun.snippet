@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>create new 'not implemented' method</Title>
+			<Description>create new 'not implemented' method</Description>
+			<Shortcut>fun</Shortcut>
+		</Header>
+		<Snippet>
+			<Code Language="CSharp">
+				<![CDATA[        $access specifier$ $return type$ $methodName$($params$)
+        {
+            $throw new NotImplementedException()$;
+        }]]>
+			</Code>
+			<Declarations>
+				<Literal>
+					<ID>access specifier</ID>
+					<Default>Array</Default>
+				</Literal>
+				<Literal>
+					<ID>return type</ID>
+					<Default>returnType</Default>
+				</Literal>
+				<Literal>
+					<ID>methodName</ID>
+					<Default>methodName</Default>
+				</Literal>
+				<Literal>
+					<ID>params</ID>
+					<Default>params</Default>
+				</Literal>
+				<Literal>
+					<ID>throw new NotImplementedException()</ID>
+					<Default>throw new NotImplementedException()</Default>
+				</Literal>
+			</Declarations>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

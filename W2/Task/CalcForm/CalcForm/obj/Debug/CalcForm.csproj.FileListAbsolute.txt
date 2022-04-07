@@ -1,0 +1,10 @@
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\bin\Debug\CalcForm.exe.config
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\bin\Debug\CalcForm.exe
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\bin\Debug\CalcForm.pdb
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\obj\Debug\CalcForm.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\obj\Debug\CalcForm.Properties.Resources.resources
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\obj\Debug\CalcForm.csproj.GenerateResource.cache
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\obj\Debug\CalcForm.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\obj\Debug\CalcForm.exe
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\obj\Debug\CalcForm.pdb
+R:\AWS-Csharp-Learning\W2\Task\CalcForm\CalcForm\obj\Debug\CalcForm.Shape_Calculator_Form.resources
