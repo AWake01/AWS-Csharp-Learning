@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\bin\Debug\net5.0\L1_Data_Structures.exe
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\bin\Debug\net5.0\L1_Data_Structures.deps.json
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\bin\Debug\net5.0\L1_Data_Structures.runtimeconfig.json
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\bin\Debug\net5.0\L1_Data_Structures.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\bin\Debug\net5.0\L1_Data_Structures.dll
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\bin\Debug\net5.0\ref\L1_Data_Structures.dll
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\bin\Debug\net5.0\L1_Data_Structures.pdb
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\L1_Data_Structures.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\L1_Data_Structures.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\L1_Data_Structures.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\L1_Data_Structures.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\L1_Data_Structures.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\L1_Data_Structures.dll
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\ref\L1_Data_Structures.dll
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\L1_Data_Structures.pdb
+R:\AWS-Csharp-Learning\W2\Code\L1_Data_Structures\L1_Data_Structures\obj\Debug\net5.0\L1_Data_Structures.genruntimeconfig.cache

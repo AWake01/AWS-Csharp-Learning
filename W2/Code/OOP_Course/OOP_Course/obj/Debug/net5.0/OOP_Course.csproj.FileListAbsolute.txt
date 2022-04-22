@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\bin\Debug\net5.0\OOP_Course.exe
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\bin\Debug\net5.0\OOP_Course.deps.json
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\bin\Debug\net5.0\OOP_Course.runtimeconfig.json
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\bin\Debug\net5.0\OOP_Course.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\bin\Debug\net5.0\OOP_Course.dll
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\bin\Debug\net5.0\ref\OOP_Course.dll
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\bin\Debug\net5.0\OOP_Course.pdb
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\OOP_Course.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\OOP_Course.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\OOP_Course.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\OOP_Course.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\OOP_Course.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\OOP_Course.dll
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\ref\OOP_Course.dll
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\OOP_Course.pdb
+R:\AWS-Csharp-Learning\W2\Code\OOP_Course\OOP_Course\obj\Debug\net5.0\OOP_Course.genruntimeconfig.cache

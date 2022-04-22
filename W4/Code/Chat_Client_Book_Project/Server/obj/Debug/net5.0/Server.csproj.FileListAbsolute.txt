@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\bin\Debug\net5.0\Server.exe
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\bin\Debug\net5.0\Server.deps.json
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\bin\Debug\net5.0\Server.runtimeconfig.json
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\bin\Debug\net5.0\Server.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\bin\Debug\net5.0\Server.dll
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\bin\Debug\net5.0\ref\Server.dll
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\bin\Debug\net5.0\Server.pdb
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\Server.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\Server.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\Server.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\Server.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\Server.dll
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\ref\Server.dll
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\Server.pdb
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Server\obj\Debug\net5.0\Server.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\bin\Debug\net5.0\Hangman.exe
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\bin\Debug\net5.0\Hangman.deps.json
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\bin\Debug\net5.0\Hangman.runtimeconfig.json
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\bin\Debug\net5.0\Hangman.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\bin\Debug\net5.0\Hangman.dll
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\bin\Debug\net5.0\ref\Hangman.dll
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\bin\Debug\net5.0\Hangman.pdb
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\Hangman.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\Hangman.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\Hangman.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\Hangman.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\Hangman.dll
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\ref\Hangman.dll
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\Hangman.pdb
+R:\AWS-Csharp-Learning\W4\Task\Hangman\Hangman\obj\Debug\net5.0\Hangman.genruntimeconfig.cache

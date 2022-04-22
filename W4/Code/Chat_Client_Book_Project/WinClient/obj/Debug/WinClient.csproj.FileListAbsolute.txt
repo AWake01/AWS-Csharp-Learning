@@ -1,0 +1,10 @@
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\bin\Debug\WinClient.exe.config
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\bin\Debug\WinClient.exe
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\bin\Debug\WinClient.pdb
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\obj\Debug\WinClient.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\obj\Debug\WinClient.Properties.Resources.resources
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\obj\Debug\WinClient.csproj.GenerateResource.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\obj\Debug\WinClient.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\obj\Debug\WinClient.exe
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\obj\Debug\WinClient.pdb
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\WinClient\obj\Debug\WinClient.ClientChatForm.resources

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "L8_Unit_Tests/1.0.0": {
+        "dependencies": {
+          "Areas": "1.0.0"
+        },
+        "runtime": {
+          "L8_Unit_Tests.dll": {}
+        }
+      },
+      "Areas/1.0.0": {
+        "runtime": {
+          "Areas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L8_Unit_Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Areas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

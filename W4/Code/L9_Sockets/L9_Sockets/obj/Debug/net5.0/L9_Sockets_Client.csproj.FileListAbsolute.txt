@@ -1,0 +1,15 @@
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\bin\Debug\net5.0\L9_Sockets_Client.exe
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\bin\Debug\net5.0\L9_Sockets_Client.deps.json
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\bin\Debug\net5.0\L9_Sockets_Client.runtimeconfig.json
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\bin\Debug\net5.0\L9_Sockets_Client.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\bin\Debug\net5.0\L9_Sockets_Client.dll
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\bin\Debug\net5.0\ref\L9_Sockets_Client.dll
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\bin\Debug\net5.0\L9_Sockets_Client.pdb
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\obj\Debug\net5.0\L9_Sockets_Client.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\obj\Debug\net5.0\L9_Sockets_Client.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\obj\Debug\net5.0\L9_Sockets_Client.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\obj\Debug\net5.0\L9_Sockets_Client.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\obj\Debug\net5.0\L9_Sockets_Client.dll
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\obj\Debug\net5.0\ref\L9_Sockets_Client.dll
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\obj\Debug\net5.0\L9_Sockets_Client.pdb
+R:\AWS-Csharp-Learning\W4\Code\L9_Sockets\L9_Sockets\obj\Debug\net5.0\L9_Sockets_Client.genruntimeconfig.cache

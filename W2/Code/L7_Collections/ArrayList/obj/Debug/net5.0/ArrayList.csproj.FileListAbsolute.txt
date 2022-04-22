@@ -1,0 +1,15 @@
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\bin\Debug\net5.0\ArrayList.exe
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\bin\Debug\net5.0\ArrayList.deps.json
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\bin\Debug\net5.0\ArrayList.runtimeconfig.json
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\bin\Debug\net5.0\ArrayList.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\bin\Debug\net5.0\ArrayList.dll
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\bin\Debug\net5.0\ref\ArrayList.dll
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\bin\Debug\net5.0\ArrayList.pdb
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\obj\Debug\net5.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\obj\Debug\net5.0\ArrayList.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\obj\Debug\net5.0\ArrayList.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\obj\Debug\net5.0\ArrayList.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\obj\Debug\net5.0\ArrayList.dll
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\obj\Debug\net5.0\ref\ArrayList.dll
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\obj\Debug\net5.0\ArrayList.pdb
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\ArrayList\obj\Debug\net5.0\ArrayList.genruntimeconfig.cache

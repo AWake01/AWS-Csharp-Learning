@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\bin\Debug\net5.0\Areas.exe
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\bin\Debug\net5.0\Areas.deps.json
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\bin\Debug\net5.0\Areas.runtimeconfig.json
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\bin\Debug\net5.0\Areas.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\bin\Debug\net5.0\Areas.dll
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\bin\Debug\net5.0\ref\Areas.dll
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\bin\Debug\net5.0\Areas.pdb
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\Areas.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\Areas.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\Areas.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\Areas.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\Areas.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\Areas.dll
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\ref\Areas.dll
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\Areas.pdb
+R:\AWS-Csharp-Learning\W3\Code\L8_Unit_Tests\Areas\obj\Debug\net5.0\Areas.genruntimeconfig.cache

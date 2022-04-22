@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\bin\Debug\net5.0\NumberGuessGame.exe
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\bin\Debug\net5.0\NumberGuessGame.deps.json
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\bin\Debug\net5.0\NumberGuessGame.runtimeconfig.json
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\bin\Debug\net5.0\NumberGuessGame.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\bin\Debug\net5.0\NumberGuessGame.dll
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\bin\Debug\net5.0\ref\NumberGuessGame.dll
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\bin\Debug\net5.0\NumberGuessGame.pdb
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\NumberGuessGame.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\NumberGuessGame.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\NumberGuessGame.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\NumberGuessGame.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\NumberGuessGame.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\NumberGuessGame.dll
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\ref\NumberGuessGame.dll
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\NumberGuessGame.pdb
+R:\AWS-Csharp-Learning\W2\Task\NumberGuessGame\NumberGuessGame\obj\Debug\net5.0\NumberGuessGame.genruntimeconfig.cache

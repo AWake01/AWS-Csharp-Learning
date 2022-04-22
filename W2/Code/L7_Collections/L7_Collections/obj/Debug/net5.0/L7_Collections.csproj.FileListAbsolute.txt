@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\bin\Debug\net5.0\L7_Collections.exe
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\bin\Debug\net5.0\L7_Collections.deps.json
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\bin\Debug\net5.0\L7_Collections.runtimeconfig.json
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\bin\Debug\net5.0\L7_Collections.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\bin\Debug\net5.0\L7_Collections.dll
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\bin\Debug\net5.0\ref\L7_Collections.dll
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\bin\Debug\net5.0\L7_Collections.pdb
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\L7_Collections.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\L7_Collections.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\L7_Collections.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\L7_Collections.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\L7_Collections.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\L7_Collections.dll
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\ref\L7_Collections.dll
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\L7_Collections.pdb
+R:\AWS-Csharp-Learning\W2\Code\L7_Collections\L7_Collections\obj\Debug\net5.0\L7_Collections.genruntimeconfig.cache

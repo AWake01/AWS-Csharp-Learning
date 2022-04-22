@@ -1,0 +1,16 @@
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\bin\Debug\net5.0\Chat_Client_Book_Project.exe
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\bin\Debug\net5.0\Chat_Client_Book_Project.deps.json
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\bin\Debug\net5.0\Chat_Client_Book_Project.runtimeconfig.json
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\bin\Debug\net5.0\Chat_Client_Book_Project.runtimeconfig.dev.json
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\bin\Debug\net5.0\Chat_Client_Book_Project.dll
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\bin\Debug\net5.0\ref\Chat_Client_Book_Project.dll
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\bin\Debug\net5.0\Chat_Client_Book_Project.pdb
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\Chat_Client_Book_Project.csproj.AssemblyReference.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\Chat_Client_Book_Project.GeneratedMSBuildEditorConfig.editorconfig
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\Chat_Client_Book_Project.AssemblyInfoInputs.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\Chat_Client_Book_Project.AssemblyInfo.cs
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\Chat_Client_Book_Project.csproj.CoreCompileInputs.cache
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\Chat_Client_Book_Project.dll
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\ref\Chat_Client_Book_Project.dll
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\Chat_Client_Book_Project.pdb
+R:\AWS-Csharp-Learning\W4\Code\Chat_Client_Book_Project\Chat_Client_Book_Project\obj\Debug\net5.0\Chat_Client_Book_Project.genruntimeconfig.cache
